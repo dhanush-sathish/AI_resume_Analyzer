@@ -2,6 +2,10 @@
 
 An intelligent resume analysis application that evaluates resumes using AI, providing detailed scoring, ATS compatibility analysis, and personalized recommendations for job seekers.
 
+🌐 **Live Demo:** [ai-resume-analyzer-one-azure.vercel.app](https://ai-resume-analyzer-one-azure.vercel.app/)
+
+🎬 **Demo Video:** [Watch on Google Drive](https://drive.google.com/file/d/1GNnLNJE6EbEhRSjd7X-gPfSkSIMxEhNn/view?usp=drive_link)
+
 ---
 
 ## 🎯 Overview
